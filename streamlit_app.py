@@ -23,8 +23,6 @@ Simply enter the URL of a sitemap XML file, click "Go", and the app will extract
 
 It works also with sitemap index file (example: https://www.google.com/sitemap.xml). 
 
-If you want to explore alternative ways (for example via Google sheets, Screaming Frog, command line) check out this article on [**How to extract urls from sitemaps**](https://www.mariolambertucci.com/how-to-extract-urls-from-sitemaps/)
-
 """
 
 # Add sidebar text
@@ -33,7 +31,7 @@ st.sidebar.markdown(SIDEBAR_TEXT)
 #Define sidebar subheader text
 SIDERBAR_SUBHEADER_TEXT = """
 About Author
-SEO Specialist [**Mario Lambertucci**](https://www.linkedin.com/in/mariolambertucci/)
+SEO Specialist [**Eric Pulizzano**](https://www.linkedin.com/in/eric-pulizzano/)
 """
 
 # Add sidebar subheader text
